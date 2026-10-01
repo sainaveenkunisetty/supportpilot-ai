@@ -1,0 +1,14 @@
+TOPIC: Login troubleshooting
+If a user cannot log in, check that Caps Lock is off and that the username is entered correctly. The user can use the official password reset process if they have forgotten their password. If the issue continues after these steps, contact human support.
+
+TOPIC: Password reset
+Use the company's official password reset page. Follow the instructions sent through the company's approved recovery process. Never share your password or one-time verification code with another person or with a support agent.
+
+TOPIC: Account security
+If you suspect unauthorized access, stop using suspicious links and contact the company's official security support team. Do not share passwords, verification codes, or recovery codes in a support conversation.
+
+TOPIC: Application troubleshooting
+If the application is not responding, check your internet connection and restart the application. If the issue continues, note the error message without sharing passwords or other sensitive information and contact human support.
+
+TOPIC: Refund requests
+Refund eligibility and processing times depend on the company's official refund policy. If the approved policy is not available in this knowledge base, human support must verify the details before making a commitment.
